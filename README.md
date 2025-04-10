@@ -16,3 +16,9 @@ This repository contains the HTML and CSS code for the responsive website design
    ```bash
    git clone https://github.com/Ismaildevkhulna/Design-Zainamz.git
 
+   ## 🔍 Preview
+
+![Website Preview](.
+/preview/screenshot.png)
+
+
